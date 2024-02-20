@@ -21,11 +21,11 @@ Estrutura Backend:
 
 Como rodar dev:
 - fazer download do arquivo
-  - Baixar o noje.js
-  - Rodar usando comando: npm install
-  - rodar: npm run dev
-  - O projeto estará rodando na PORT 3333
-  - Para testar o papel de admin, deve mudar o papel no banco de dados ou entrar com o perfil: andre@email.com senha: 123
+- Baixar o noje.js
+- Rodar usando comando: npm install
+- rodar: npm run dev
+- O projeto estará rodando na PORT 3333
+- Para testar o papel de admin, deve mudar o papel no banco de dados ou entrar com o perfil: andre@email.com senha: 123
 
 Link do deploy: 
  https://food-explorer-api-jslw.onrender.com
